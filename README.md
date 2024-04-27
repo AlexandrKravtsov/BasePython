@@ -20,7 +20,7 @@
 - [Декораторы в Python. Занятие от 06.03.2024](open-lessons/decorators.06.03.2024/)
 
 
-### Курсы Python Basic:
+### Курсы Python Basic_:
 
 - [PythonBasic.2020-07](https://github.com/OtusTeam/BasePython/tree/PythonBasic.2020-07)
 - [PythonBasic.2020-11](https://github.com/OtusTeam/BasePython/tree/PythonBasic.2020-11)
